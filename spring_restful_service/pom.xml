@@ -62,6 +62,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>CRUD-oper</finalName>
 	</build>
 
 </project>
